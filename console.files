@@ -1,0 +1,8 @@
+src/main.cpp
+src/mainwindow.cpp
+src/mainwindow.h
+src/mytextbrowser.cpp
+src/mytextbrowser.h
+src/serialport.cpp
+src/serialport.h
+src/ui_mainwindow.h
